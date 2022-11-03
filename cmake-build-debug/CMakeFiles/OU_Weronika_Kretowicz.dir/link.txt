@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/OU_Weronika_Kretowicz.dir/main.c.o  -o OU_Weronika_Kretowicz 

@@ -1,0 +1,3 @@
+/mnt/c/Users/Weronika/OU_Weronika_Kretowicz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Weronika/OU_Weronika_Kretowicz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Weronika/OU_Weronika_Kretowicz/cmake-build-debug/CMakeFiles/OU_Weronika_Kretowicz.dir
